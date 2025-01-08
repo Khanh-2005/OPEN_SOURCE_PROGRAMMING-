@@ -1,0 +1,96 @@
+{
+  "OSType": "Windows_NT",
+  "Platform": "win32",
+  "RAM": 8319787008,
+  "USEDRAM": 6150098944,
+  "CPU": [
+    {
+      "model": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "speed": 1190,
+      "times": {
+        "user": 6382109,
+        "nice": 0,
+        "sys": 10278593,
+        "idle": 85959750,
+        "irq": 2289890
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "speed": 1190,
+      "times": {
+        "user": 6272234,
+        "nice": 0,
+        "sys": 5290593,
+        "idle": 91056390,
+        "irq": 758640
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "speed": 1190,
+      "times": {
+        "user": 6853625,
+        "nice": 0,
+        "sys": 4075703,
+        "idle": 91689890,
+        "irq": 349343
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "speed": 1190,
+      "times": {
+        "user": 4942390,
+        "nice": 0,
+        "sys": 2421109,
+        "idle": 95255734,
+        "irq": 206203
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "speed": 1190,
+      "times": {
+        "user": 5398750,
+        "nice": 0,
+        "sys": 2848140,
+        "idle": 94372359,
+        "irq": 199125
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "speed": 1190,
+      "times": {
+        "user": 3943343,
+        "nice": 0,
+        "sys": 2021046,
+        "idle": 96654796,
+        "irq": 140343
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "speed": 1190,
+      "times": {
+        "user": 5086671,
+        "nice": 0,
+        "sys": 2454375,
+        "idle": 95078203,
+        "irq": 176875
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "speed": 1190,
+      "times": {
+        "user": 4451031,
+        "nice": 0,
+        "sys": 2338031,
+        "idle": 95830171,
+        "irq": 192515
+      }
+    }
+  ]
+}
